@@ -1,1 +1,1 @@
-i will do projects whit node.js
+i will make projects whit node.js
