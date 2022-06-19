@@ -1,0 +1,22 @@
+{
+  "name": "proyects-whit-node",
+  "version": "1.0.0",
+  "description": "i add my projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yilbertprogra/projects-whit-node.js.git"
+  },
+  "keywords": [
+    "projects"
+  ],
+  "author": "Yilbert Luna <yilbert.luna.e@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yilbertprogra/projects-whit-node.js/issues"
+  },
+  "homepage": "https://github.com/yilbertprogra/projects-whit-node.js#readme"
+}
