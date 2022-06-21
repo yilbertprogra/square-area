@@ -7,3 +7,4 @@ app.use(express.static(path.resolve(__dirname, 'public')));
 app.listen(8000, () => {
     console.log('the server is running on http://localhost:8000')
 })
+
