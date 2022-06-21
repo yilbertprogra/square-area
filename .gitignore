@@ -1,9 +1,3 @@
-server.js
-index.html
-operator.js
-style.css
 node_modules
-package-lock.json
-public
-views
-app.js
+src
+form
