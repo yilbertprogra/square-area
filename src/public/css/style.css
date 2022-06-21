@@ -1,0 +1,31 @@
+body {
+    background-image: url(../img/background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+section {
+    background-color: lightslategray;
+    display: table;    
+    height: 300px;
+    margin-left: 400px;
+    border: 2px;
+    border-radius: 4%;
+}
+
+button {
+    border: 3px;
+    border-radius: 4%;
+}
+
+div {
+    margin: 10px;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
